@@ -9,7 +9,7 @@ vlook-cc-bottom-right: Right Information<br>Here
 vlook-welcome: <strong>资源准备中，欢迎来到ALp_Studio</strong>
 vlook-gray-mode: 12-13:国家公祭日@zh;04-05:清明节
 vlook-doc-lib:
-- [LaTeX 学习日志 00-目录](LaTex/index.html)
+- [LaTeX - 目录](LaTex/index.html?target=guide)
 ---
 
 ###### <br>~ALP_STUDIO~<br><br>首页<br><br><br><br><br><br>**Re_TikaRa**<br>*ALp_Studio*

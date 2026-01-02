@@ -10,7 +10,7 @@ vlook-welcome: <strong>资源准备中，欢迎来到ALp_Studio</strong>
 vlook-gray-mode: 12-13:国家公祭日@zh;04-05:清明节
 vlook-doc-lib:
 - [首页](../index.html?target=guide)
-- [LaTeX 学习日志 01-前期准备](2885641e/)
+- [LaTeX 学习日志 01-前期准备](LaTeX学习日志01-前期准备.html)
 ---
 
 ###### <br>~ALP_STUDIO~<br>LaTeX 学习日志 00 · 目录<br><br><br><br><br><br>**Re_TikaRa**<br>*ALp_Studio*

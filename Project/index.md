@@ -10,7 +10,8 @@ vlook-welcome: <strong>资源准备中，欢迎来到ALp_Studio</strong>
 vlook-gray-mode: 12-13:国家公祭日@zh;04-05:清明节
 vlook-doc-lib:
 - [首页](../index.html?target=guide)
-- [Certificate-Management](21ae45ef/)
+- [Certificate-Management](880957e2/)
+- [DesktopTimer](DesktopTimer.html)
 ---
 
 ###### <br>~ALP_STUDIO~<br>Project 目录<br><br><br><br><br><br>**Re_TikaRa**<br>*ALp_Studio*
@@ -18,6 +19,7 @@ vlook-doc-lib:
 [TOC]
 
 # 目录
-- [Certificate-Management](Certificate-Management.html)
+- [Certificate-Management](880957e2/)
+- [DesktopTimer](DesktopTimer.html)
 
 # The End

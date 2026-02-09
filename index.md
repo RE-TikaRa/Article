@@ -2,7 +2,7 @@
 title: Home
 author: TikaRa
 description: 欢迎进入ALp_Studio
-date: 2026年2月10日
+date: 2026-02-10
 vlook-cc-bottom-left: Left Information<br>Here
 vlook-cc-bottom-right: Right Information<br>Here
 vlook-welcome: <strong>资源准备中，欢迎来到ALp_Studio</strong>
